@@ -1,0 +1,4 @@
+classes= 1
+train=data/custom/fly/train.txt
+valid=data/custom/fly/valid.txt
+names=data/custom/fly/classes.names
