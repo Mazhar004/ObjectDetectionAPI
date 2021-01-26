@@ -1,0 +1,11 @@
+numpy
+torch>=1.2
+torchvision
+matplotlib
+tensorboard
+terminaltables
+pillow
+tqdm
+imgaug
+flask_cors
+flask_wtf
